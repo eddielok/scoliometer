@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/Export" android:title="Export"></item>
+	<item android:id="@+id/Mode" android:title="Joint Mode"></item>
+	<item android:id="@+id/Display" android:title="Camera Mode"></item>
+	<item android:id="@+id/Font" android:title="Spine/General"></item>
+</menu>

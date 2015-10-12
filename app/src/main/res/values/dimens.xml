@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="roll_size">50sp</dimen>
+    <dimen name="radio_size">12dip</dimen>
+    <dimen name="radio_x">200dip</dimen>
+    <dimen name="radio_y">80dip</dimen>
+    <dimen name="radio_d">13dip</dimen>
+    <dimen name="white_x">45dip</dimen>
+    <dimen name="white_y">45dip</dimen>
+    <dimen name="dbx">20dip</dimen>
+    <dimen name="dcx">120dip</dimen>
+    <dimen name="dy2">20dip</dimen>
+    <dimen name="dy3">40dip</dimen>
+    <dimen name="dy4">60dip</dimen>
+    <dimen name="dy5">80dip</dimen>
+    <dimen name="dsx">65dip</dimen>
+    <dimen name="hoffset">15dip</dimen>
+    <dimen name="sfont_size">8sp</dimen>
+    <dimen name="esfont_size">7sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
